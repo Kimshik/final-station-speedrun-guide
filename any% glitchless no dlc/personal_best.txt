@@ -1,131 +1,132 @@
    Any%
-1h43m06s73 (20-07-22)
+1h43m05s40 (20-07-22)
 
 Prologue
-    18.86
+    18.86             18.86
     15.89 (loading)
 Redmund
-    58.02
+    58.02             1.32.77
     17.58 (loading)
     1.39.45
     17.41 (loading)
 Nimlard
-    1.01.59
+    1.01.59             4.48.80
     17.96 (loading)
     1.38.25
     16.41 (loading)
 Keskus
-    46.47
+    46.47             7.47.89
     18.61 (loading)
     1.37.52
     18.00 (loading)
 Emergency Station
-    1.45.26
+    1.45.26             11.56.28
     17.65 (loading)
     1.38.50
     14.93 (loading)
 Wallick
-    39.63
+    39.63             14.37.99
     18.01 (loading)
     1.58.18
     14.03 (loading)
 Midford
-    49.36
+    49.36             17.57.57
     18.44 (loading)
     1.57.44
     14.83 (loading)
 Bridgstone
-    1.10.51
+    1.10.51             21.38.79
     16.74 (loading)
     1.57.36
     18.00 (loading)
 Nevils A5
-    3.41.79
+    3.41.79             27.34.68
     18.00 (loading)
     1.57.35
     17.46 (loading)
 New Costfield
-    2.38.13
+    2.38.13             33.03.62
     18.00 (loading)
     1.58.97
     16.40 (loading)
 Ristol
-    1.27.02
+    1.27.02             37.04.01
     18.00 (loading)
     1.75.87
     16.60 (loading)
 Hazelborn
-    1.50.19
+    1.50.19             41.26.67
     18.00 (loading)
     1.85.61
     18.46 (loading)
 Arden
-    1.54.60
+    1.54.60             45.56.34
     20.42 (loading)
     1.57.41
     17.09 (loading)
 Strange Subway
-    1.08.88
+    1.08.88             49.40.14
     19.63 (loading)
     1.57.55
     16.42 (loading)
 The Forest
-    1.10.73
+    1.10.73             53.24.47
     18.00 (loading)
     1.59.13
     18.53 (loading)
 Illusion
-    1.54.95
+    1.54.95             57.55.08
     21.99 (loading)
     1.55.32
     18.64 (loading)
 L-Abs Bunker
-    1.47.31
+    1.47.31             1.02.18.34
     18.33 (loading)
     1.27.78
     19.49 (loading)
 Modeline Valley
-    2.25.44
+    2.25.44             1.06.49.38
     18.00 (loading)
     1.59.67
     17.46 (loading)
 Oil Platform B-85
-    2.16.30
+    2.16.30             1.11.40.81
     18.00 (loading)
     2.00.02
     17.58 (loading)
 Rail Factory E5K
-    2.38.49
+    2.38.49             1.16.54.90
     18.20 (loading)
     1.58.92
     18.90 (loading)
 Personal Station 02-T
-    1.35.08
+    1.35.08             1.21.06.00
     18.00 (loading)
     1.59.92
     17.20 (loading)
 Classified
-    1.07.82
+    1.07.82             1.24.48.94
     19.22 (loading)
     1.58.99
     20.63 (loading)
 Metropole
-    2.18.47
+    2.18.47             1.29.46.25
     20.74 (loading)
     1.58.17
     19.00 (loading)
 Lost Connection
-    55.51
+    55.51             1.33.19.67
     18.00 (loading)
     1.59.45
     12.41 (loading)
 Lost Connection
-    1.20.26
+    1.20.26             1.37.09.79
     8.83 (loading)
-    1.16.77
+    1.16.77             1.38.35.39
     11.26 (loading)
-    52.56
+    52.56             1.93.93.21
     10.47 (loading)
-    2.00.39
+    2.00.39             1.41.50.07
     11.59 (loading)
-    1.03.74
+    1.03.74             1.43.05.40
+    
